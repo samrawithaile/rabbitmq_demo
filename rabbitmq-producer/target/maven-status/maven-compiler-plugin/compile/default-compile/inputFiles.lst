@@ -1,0 +1,5 @@
+/Users/samri/Documents/training_swagger/rabbitmq-demo1/rabbitmq-producer/src/main/java/com/javainuse/SpringBootHelloWorldApplication.java
+/Users/samri/Documents/training_swagger/rabbitmq-demo1/rabbitmq-producer/src/main/java/com/javainuse/service/RabbitMQSender.java
+/Users/samri/Documents/training_swagger/rabbitmq-demo1/rabbitmq-producer/src/main/java/com/javainuse/controller/RabbitMQWebController.java
+/Users/samri/Documents/training_swagger/rabbitmq-demo1/rabbitmq-producer/src/main/java/com/javainuse/model/Employee.java
+/Users/samri/Documents/training_swagger/rabbitmq-demo1/rabbitmq-producer/src/main/java/com/javainuse/config/RabbitMQConfig.java

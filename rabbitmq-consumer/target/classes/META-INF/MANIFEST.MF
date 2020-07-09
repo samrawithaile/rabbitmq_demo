@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: samri
+Build-Jdk: 12.0.1
+Implementation-Title: SpringBootRabbitMQConsumer
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.javainuse
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRabb
+ itMQConsumer/
+Created-By: Maven Integration for Eclipse
+
